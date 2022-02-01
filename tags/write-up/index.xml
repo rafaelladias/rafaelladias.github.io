@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>write-up on Rafaella Dias</title>
+    <link>https://rafaella.ca/tags/write-up/</link>
+    <description>Recent content in write-up on Rafaella Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rafaella.ca/tags/write-up/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Write-up - TryHackMe Room DogCat</title>
+      <link>https://rafaella.ca/posts/thm_dogcat_writeup/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/posts/thm_dogcat_writeup/</guid>
+      <description>Capture four flags from the box with LFI vulnerability doing escalation privileges, and docker escape to the root machine.</description>
+    </item>
+    
+  </channel>
+</rss>

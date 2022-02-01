@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>about me on Rafaella Dias</title>
+    <link>https://rafaella.ca/tags/about-me/</link>
+    <description>Recent content in about me on Rafaella Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rafaella.ca/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://rafaella.ca/about/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/about/</guid>
+      <description>Hello everyone 👋
+My name is Rafaella Dias.</description>
+    </item>
+    
+  </channel>
+</rss>

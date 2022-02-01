@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rafaella Dias</title>
+    <link>https://rafaella.ca/</link>
+    <description>Recent content on Rafaella Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rafaella.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>List projects that I&#39;m currently involved</title>
+      <link>https://rafaella.ca/projects/projects/</link>
+      <pubDate>Thu, 02 Dec 2021 01:12:00 -0500</pubDate>
+      
+      <guid>https://rafaella.ca/projects/projects/</guid>
+      <description>IT projects that I&amp;#39;m involved with and creating by myself.</description>
+    </item>
+    
+    <item>
+      <title>Project X</title>
+      <link>https://rafaella.ca/projects/project1/</link>
+      <pubDate>Thu, 02 Dec 2021 01:12:00 -0500</pubDate>
+      
+      <guid>https://rafaella.ca/projects/project1/</guid>
+      <description>Project X for the creation of Canon X.</description>
+    </item>
+    
+    <item>
+      <title>Write-up - TryHackMe Room DogCat</title>
+      <link>https://rafaella.ca/posts/thm_dogcat_writeup/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/posts/thm_dogcat_writeup/</guid>
+      <description>Capture four flags from the box with LFI vulnerability doing escalation privileges, and docker escape to the root machine.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://rafaella.ca/about/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/about/</guid>
+      <description>Hello everyone 👋
+My name is Rafaella Dias.</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo World</title>
+      <link>https://rafaella.ca/posts/helloworld/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/posts/helloworld/</guid>
+      <description>Hello world of Papermod with Hugo.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

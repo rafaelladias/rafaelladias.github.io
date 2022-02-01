@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Rafaella Dias</title>
+    <link>https://rafaella.ca/tags/</link>
+    <description>Recent content in Tags on Rafaella Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rafaella.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>command_injection</title>
+      <link>https://rafaella.ca/tags/command_injection/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/tags/command_injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker_scape</title>
+      <link>https://rafaella.ca/tags/docker_scape/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/tags/docker_scape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LFI</title>
+      <link>https://rafaella.ca/tags/lfi/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/tags/lfi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>log_poisoning</title>
+      <link>https://rafaella.ca/tags/log_poisoning/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/tags/log_poisoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TryHackMe</title>
+      <link>https://rafaella.ca/tags/tryhackme/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/tags/tryhackme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>write-up</title>
+      <link>https://rafaella.ca/tags/write-up/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/tags/write-up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://rafaella.ca/tags/projects/</link>
+      <pubDate>Thu, 02 Dec 2021 01:12:00 -0500</pubDate>
+      
+      <guid>https://rafaella.ca/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projectX</title>
+      <link>https://rafaella.ca/tags/projectx/</link>
+      <pubDate>Thu, 02 Dec 2021 01:12:00 -0500</pubDate>
+      
+      <guid>https://rafaella.ca/tags/projectx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about me</title>
+      <link>https://rafaella.ca/tags/about-me/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/tags/about-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://rafaella.ca/tags/first/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaella.ca/tags/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

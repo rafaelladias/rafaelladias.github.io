@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rafaella.ca/sitemap.xml
